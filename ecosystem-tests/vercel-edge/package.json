@@ -14,7 +14,7 @@
     "test:ci": "start-server-and-test start http://localhost:3000 test"
   },
   "dependencies": {
-    "ai": "2.1.34",
+    "ai": "7.0.59",
     "next": "^14.2.25",
     "react": "18.2.0",
     "react-dom": "18.2.0"
